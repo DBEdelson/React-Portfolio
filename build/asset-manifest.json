@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4de5fa72.css",
+    "main.js": "/static/js/main.2ed21058.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/bored.png": "/static/media/bored.bb84a26a4d6e59515501.png",
+    "static/media/employee.png": "/static/media/employee.24f946171bedb2e8e0e2.png",
+    "static/media/jobb.png": "/static/media/jobb.e762eddf06d32fc6ff89.png",
+    "index.html": "/index.html",
+    "main.4de5fa72.css.map": "/static/css/main.4de5fa72.css.map",
+    "main.2ed21058.js.map": "/static/js/main.2ed21058.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de5fa72.css",
+    "static/js/main.2ed21058.js"
+  ]
+}
