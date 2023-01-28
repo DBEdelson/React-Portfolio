@@ -4,7 +4,7 @@ import NavBar from './NavBar'
 export default class Header extends Component {
   render() {
     return (
-      <div class="header"><strong>Diego Medel</strong>
+      <div class="header"><strong>David Edelson</strong>
       <NavBar /> </div>
     
     )
