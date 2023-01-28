@@ -16,6 +16,11 @@
   portfolio made in react still a work in progress
   ## Installation
   clone repository and install dependencies then npm run start
+
+  ## Credits 
+  Debug: Shawn Tschoepe Github: https://github.com/shawn220a
+
+  Debug: Salissa Github: https://github.com/salissa4
   ## Usage
   
   ## How to Contribute  
