@@ -1,13 +1,13 @@
-import React, { Component } from "react";
+import React, { Component } from 'react';
 
 export default class Projects extends Component {
   render() {
     return (
       <div>
         Projects
-        <section id="Project">
-          <h2 class="container">Portfolio</h2>
-          <div class="container3">
+        <section id='Project'>
+          <h2 class='container'>Portfolio</h2>
+          <div class='container3'>
             {/* <div class="container3">
                 <a href="http://stormy-cliffs-65992.herokuapp.com/" target="blank"><img class="img"  width="200px" height="200px" alt="project 1"></img></a>
                 <p class="cap">Jays on your feet Project 3</p>

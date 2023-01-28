@@ -10,15 +10,15 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   return (
     <main>
-    <div className='App '>
-      <Header />
-     <About />
-      <Projects />
-      <Contact />
-      <Footer />
-    </div>
+      <div className='App '>
+        <Header />
+        <About />
+        <Projects />
+        <Contact />
+        <Footer />
+      </div>
     </main>
-  )
+  );
 }
 
 export default App;
