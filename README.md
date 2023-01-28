@@ -20,7 +20,6 @@
   ## Credits 
   Debug: Shawn Tschoepe Github: https://github.com/shawn220a
 
-  Debug: Salissa Github: https://github.com/salissa4
   ## Usage
   
   ## How to Contribute  
